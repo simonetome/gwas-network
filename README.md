@@ -6,10 +6,12 @@ This repository contains the code used for the network-propagation step of the a
 ```
 ./cfg/         --> seed nodes
 ./data/        --> networks in pickle format
+./env/         --> YAML file for environment reproducibility
 ./notebooks/   --> jupyter notebooks used for the analysis (sequentially numbered)
-./scripts/     --> 
-
+./scripts/     --> bash file used to get raw data
+./output/      --> output of the analyses
 ```
+*N.B.:* enrichment analyses on this repository do not contain `ClueGO`-derived analysis, instead they show an example using `gProfiler`.
 
 
 
