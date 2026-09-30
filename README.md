@@ -13,5 +13,21 @@ This repository contains the code used for the network-propagation step of the a
 ```
 *N.B.:* enrichment analyses on this repository do not contain `ClueGO`-derived analysis, instead they show an example using `gProfiler`.
 
-
+**To reproduce the environment:**
+1. create a conda env from the yaml in `env` folder
+   ```
+   conda env create -f env/environment.yml 
+   ```
+2. activate the environment
+   ```
+   conda activate gwas-network
+   ```
+3. Enter in R
+   ```
+   R
+   ```
+4. Install RRA (ver. 1.2.1)
+   ```
+   install.packages("RobustRankAggreg")
+   ```
 
