@@ -30,4 +30,7 @@ This repository contains the code used for the network-propagation step of the a
    ```
    install.packages("RobustRankAggreg")
    ```
-
+5. Install rspm 
+   ```
+   install.packages("rspm", repos="https://cloud.r-project.org")
+   ```
