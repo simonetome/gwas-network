@@ -18,3 +18,5 @@ dependencies:
   - ipywidgets
   - rpy2=3.6.8
   - statsmodels=0.15.0
+  - polars=1.41.2
+  - pyarrow
