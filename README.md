@@ -11,7 +11,6 @@ This repository contains the code used for the network-propagation step of the a
 ./scripts/     --> bash file used to get raw data
 ./output/      --> output of the analyses
 ```
-*N.B.:* enrichment analyses on this repository do not contain `ClueGO`-derived analysis, instead they show an example using `gProfiler`.
 
 **To reproduce the environment:**
 1. create a conda env from the yaml in `env` folder
@@ -22,15 +21,4 @@ This repository contains the code used for the network-propagation step of the a
    ```
    conda activate gwas-network
    ```
-3. Enter in R
-   ```
-   R
-   ```
-4. Install RRA (ver. 1.2.1)
-   ```
-   install.packages("RobustRankAggreg")
-   ```
-5. Install rspm 
-   ```
-   install.packages("rspm", repos="https://cloud.r-project.org")
-   ```
+3. Select the environment when running Jupyter Notebooks
