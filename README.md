@@ -1,6 +1,6 @@
 # GWAS Network propagation 
 
-This repository contains the code used for the network-propagation step of the article "Genome-wide integrative analysis links KCTD20 and PTPRD regulatory loci to chronic pain".
+This repository contains the code used for the network-propagation step of the article "Network propagation enhances the biological interpretation of genetic association signals in chronic pain".
 
 ### Structure of the repository:
 ```
