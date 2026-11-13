@@ -1,6 +1,6 @@
 # GWAS Network propagation 
 
-This repository contains the code used for the network-propagation step of the article "Network propagation enhances the biological interpretation of genetic association signals in chronic pain".
+This repository contains the code used for the network-propagation step of the article "Beyond genome-wide associations: integrative analyses reveal network-level insights into chronic pain susceptibility".
 
 ### Structure of the repository:
 ```
